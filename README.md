@@ -1,4 +1,4 @@
-# AccessHQTripPlannerFramework
+# AccessHQ - Trip Planner Framework
 
 1.	Introduction:
     ‘Trip Planner’ is a web application for planning trips within New South Wales using the public transport network. 
@@ -44,7 +44,7 @@ This framework is compatible with most of the continuous development and integra
     
     Programming Language		: Java
     
-    IDE				              : Eclipse
+    IDE				            : Eclipse
     
     Testing framework		    : TestNG
     
@@ -77,7 +77,10 @@ This framework is compatible with most of the continuous development and integra
     https://github.com/Swatig0370/AccessHQTripPlannerFramework
 
 13.	Jenkins status:
+    
     13.1	Project  - AccessHQTripPlanner:
+    
     13.2	Console Output:
+    
     13.3	TestNG Results:
  
